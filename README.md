@@ -1,3 +1,3 @@
 # Python-Dice-Roller
 
-srv project
+Shivangi project
